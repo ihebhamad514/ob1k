@@ -1,0 +1,1 @@
+https://www.six-dochub.com/nl/widgets/document_search/v2?api_key=84868069-d0e1-4638-a419-dc04b123f995&style=bdl&active_cols=download%7CISIN%7Clanguage%7Cjurisdiction&search_types=ISIN&resizable=1&search_doc_types=1&search_langs=nl%7Cen
